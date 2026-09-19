@@ -1,0 +1,23 @@
+# .gitignore - Tells Git which files to ignore
+# Compiled class files
+*.class
+# Package files
+*.jar
+*.war
+*.ear
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+© Mawal A. Mohammed
+# Build directories
+target/
+build/
+out/
+# OS files
+.DS_Store
+Thumbs.db
+# Environment files
+.env
+*.log
